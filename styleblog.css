@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+.header {
+    color: lightblue;
+    text-align: center;
+}
+
+.menu {
+    padding: 0;
+    margin: 0;
+    font-family: Trebuchet MS;
+   }
+    
+   .menu {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid white;
+    text-align: center;
+   }
+    
+   .menu ul li {
+    display: inline;
+    padding: 0 5px;
+    margin-right: 30px;
+   }
+    
+   .menu ul li a, a:link, a:visited, a:active {
+    color: white;
+    text-decoration: none;
+   }
+    
+   .menu ul li a:hover {
+    color: lightblue;
+    text-decoration: underline;
+   }
+
+   .text {
+color: lightblue;
+text-align: center;
+
+   }
