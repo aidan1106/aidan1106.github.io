@@ -1,7 +1,7 @@
 
-body {
-    background-image: url("https://res.cloudinary.com/cb-media/image/upload/f_auto,w_800/cmsmedia/prod/binaries/content/gallery/cbhippowebsite/tests/mobiel-abonnement/afbeeldingen/bellen-smartphone.jpg");
-  }
+body{
+    background-color: black;
+}
 
 .header {
     color: lightblue;
