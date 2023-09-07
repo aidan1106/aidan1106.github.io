@@ -44,3 +44,13 @@ body{
 .midden {text-align: center;
 
 }
+
+.afbeelding {
+
+    max-height: auto;
+    width: 40%;
+    margin-top: 50px;
+    margin-left: 525px;
+}
+
+
