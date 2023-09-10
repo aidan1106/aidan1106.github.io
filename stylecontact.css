@@ -1,10 +1,16 @@
 
-body{
-    background-color: black;
-}
+body
+{
+    background-image: url("https://media.istockphoto.com/id/1353112627/vector/dark-blue-de-focused-blurred-motion-abstract-background.jpg?s=612x612&w=0&k=20&c=KQ_FziUcEM0OPx4RQNrLJsKvA4dR8Ho8ezPmz-BQBTY=");
+
+    background-repeat: no-repeat;
+
+	background-size: cover;
+  }
+
 
 .header {
-    color: lightblue;
+    color: white;
     text-align: center;
 }
 
@@ -37,13 +43,13 @@ body{
     text-decoration: underline;
    }
 
-   .midden {color: lightblue ;
+   .midden {color: white ;
 text-align: center;
 margin-top: 100px;
 }
 
    .onder {
-    color: lightblue;
+    color: white;
     margin-top: 120px;
 text-align: center;
 }
