@@ -22,7 +22,7 @@ body
    .menu {
     margin: 5px;
     padding: 5px;
-    border: 1px solid white;
+    border: 2px solid white;
     text-align: center;
    }
     
@@ -49,12 +49,15 @@ body
 table{
     color: white;
     width: 60%;
-    border: solid 1px white;
+    border: solid 2px white;
     margin: 0 auto;
+    font-weight: bold;
+    
 }
 
 table td{
     border: solid 1px white;
+    padding: 10px;
 }
    
 .text {
@@ -62,3 +65,8 @@ table td{
     text-align: center;
 }
 
+.progressiebar {color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+}
