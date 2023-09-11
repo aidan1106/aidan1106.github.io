@@ -47,7 +47,7 @@ body
 }
 
 table{
-    color: white;
+    color: red;
     width: 60%;
     border: solid 2px white;
     margin: 0 auto;
@@ -70,3 +70,12 @@ table td{
     margin-top: 50px;
     font-weight: bold;
 }
+
+.eersteweken {
+    color: orange;
+}
+
+.titels{
+    color: white;
+}
+
