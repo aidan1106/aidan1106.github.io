@@ -42,9 +42,23 @@ body
     text-decoration: underline;
    }
 
+.table-container{
+    width: 100%;
+}
+
+table{
+    color: white;
+    width: 60%;
+    border: solid 1px white;
+    margin: 0 auto;
+}
+
+table td{
+    border: solid 1px white;
+}
    
-   .text {
+.text {
     color: white;
     text-align: center;
-       }
-       
+}
+
