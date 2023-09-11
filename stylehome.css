@@ -50,12 +50,18 @@ body
 
 }
 
+.afbeelding-container{
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
 .afbeelding {
 
     max-height: auto;
     width: 40%;
-    margin-top: 50px;
-    margin-left: 525px;
+    margin-top: 40px;
+
 }
 
 
