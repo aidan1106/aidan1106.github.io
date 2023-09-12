@@ -56,3 +56,11 @@ body
     width: auto;
     border-radius: 100%;
 }
+
+.fotohz {
+    height: 300px;
+    width: auto;
+    margin-left: 675px;
+    margin-top: -300px;
+
+}
