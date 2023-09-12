@@ -7,4 +7,33 @@ body
 	background-size: cover;
   }
 
-  .text{color: white;}
+  article {
+    color: white;
+text-align: center;
+  width: 600px;
+  margin-left: 550px;
+  }
+
+  .terugknop{
+    text-align: center;
+  
+  }
+  
+  
+  /* unvisited link */
+  a:link {
+    color: white;
+    
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+    
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: lightblue;
+    
+  }
