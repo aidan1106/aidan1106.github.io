@@ -1,0 +1,66 @@
+body
+{
+    background-image: url("https://media.istockphoto.com/id/1353112627/vector/dark-blue-de-focused-blurred-motion-abstract-background.jpg?s=612x612&w=0&k=20&c=KQ_FziUcEM0OPx4RQNrLJsKvA4dR8Ho8ezPmz-BQBTY=");
+
+    background-repeat: no-repeat;
+
+	background-size: cover;
+  }
+
+.header {
+    color: white;
+    text-align: center;
+}
+
+.midden {
+    text-align: center;
+    margin-bottom: 50px;
+    color: white;
+}
+
+.onder {
+    text-align: center;
+}
+
+.menu {
+    padding: 0;
+    margin: 0;
+    font-family: Trebuchet MS;
+   }
+    
+   .menu {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid white;
+    text-align: center;
+   }
+    
+   .menu ul li {
+    display: inline;
+    padding: 0 5px;
+    margin-right: 30px;
+   }
+    
+   .menu ul li a, a:link, a:visited, a:active {
+    color: white;
+    text-decoration: none;
+   }
+    
+   .menu ul li a:hover {
+    color: lightblue;
+    text-decoration: underline;
+   }
+
+   .schaal {
+    height: 300px;
+    width: auto;
+    border-radius: 100%;
+}
+
+.fotohz {
+    height: 300px;
+    width: auto;
+    margin-left: 675px;
+    margin-top: -300px;
+
+}
