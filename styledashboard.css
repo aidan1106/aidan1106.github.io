@@ -72,7 +72,7 @@ table td{
 }
 
 .eersteweken {
-    color: orange;
+    color: green;
 }
 
 .titels{
@@ -82,3 +82,5 @@ table td{
 .quartile1{
     color: orange;
 }
+
+.quartile4 {color: red;}
